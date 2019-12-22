@@ -5,6 +5,8 @@
    File Name：     0000
    Author :       zhang
    date：          19-12-10
+
+   pip install Pillow
 -------------------------------------------------
 """
 from PIL import Image,ImageDraw,ImageFont
