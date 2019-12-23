@@ -9,6 +9,7 @@
 """
 import random
 for i in range(0,200):
+    string = ''
     for j in range(0,4):
-        print(random.randint(0,9),end='')
-    print()
+        string = string + str(random.randint(0,9))
+    print(string)
